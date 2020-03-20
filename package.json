@@ -1,0 +1,18 @@
+{
+  "name": "imap_node",
+  "version": "1.0.0",
+  "description": "Sample application implementing imap in node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "imap_node"
+  },
+  "keywords": [
+    "imap"
+  ],
+  "author": "sandeep",
+  "license": "ISC"
+}
